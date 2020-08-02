@@ -1,2 +1,2 @@
 # Tech_oggy1
-Manush Shah
+Run alien.py for starting the game
