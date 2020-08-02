@@ -1,2 +1,2 @@
 # Tech_oggy1
-Run alien.py for starting the game
+Run alien.py in Alien Invasion for starting the game
